@@ -1,0 +1,46 @@
+.imagens {
+    size: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 10;
+    align-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1%;
+}
+
+h1 {
+    font-size: 40pt;
+    color: rgb(243, 200, 200);
+}
+
+h3 {
+    font-size: 40pt;
+    color: aquamarine;
+}
+
+p {
+    font-size: 30pt; 
+    width: 90vw;
+    box-shadow: #201b2c 10px;
+}
+
+.page-two {
+    background: #201b2c;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+* body{
+    background-color: #2f2841;
+    margin: 0;
+    width: -100vw;
+    height: 100vh;
+    display: ;
+
+}
+
+img {
+    width: 20vw;
+}
